@@ -12,6 +12,7 @@ Follow the Instruction. Enter the right input as required. Play and enjoy the ga
 
 - Use the table illustration below to get the positioning for the game play.
 
+|:-----:|:-----:|:-----:|
 | top-L | top-M | top-R |
 | mid-L | mid-M | mid-R |
 | bottom-L | bottom-M | bottom-R |
